@@ -1,0 +1,6 @@
+{
+  "name": "Developer Portfolio",
+  "description": "An interactive, customizable personal portfolio showcasing projects, experience timeline, skill matrix, live demos, resume builder, and AI project assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
